@@ -1,0 +1,45 @@
+{
+    "name": "§aEasy",
+
+    "interval": 60,
+    "max_blocks": 60,
+
+    "value": [
+        {
+            "time": 0,
+            "value": []
+        },
+        {
+            "time": 720,
+            "append": true,
+
+            "message": {"text": "Difficulty has increased..."},
+
+            "value": []
+        },
+        {
+            "time": 1440,
+            "append": true,
+
+            "message": {"text": "Difficulty has increased..."},
+
+            "value": []
+        },
+        {
+            "time": 2160,
+            "append": true,
+
+            "message": {"text": "Difficulty has increased..."},
+
+            "value": []
+        },
+        {
+            "time": 2880,
+            "append": true,
+
+            "message": {"text": "Final Phase"},
+
+            "value": []
+        }
+    ]
+}

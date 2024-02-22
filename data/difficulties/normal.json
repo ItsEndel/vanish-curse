@@ -1,0 +1,38 @@
+{
+    "name": "§eNormal",
+
+    "interval": 60,
+    "max_blocks": 60,
+
+    "blocks": [
+        {
+            "time": 0,
+            "values": [
+                "oak_leaves",
+                "short_grass",
+                "tall_grass",
+                "fern",
+                "surgar_cane"
+            ]
+        },
+        {
+            "time": 1200,
+            "append": true,
+            "values": [
+                "grass_block",
+                "crafting_table",
+                "furnace"
+            ]
+        },
+        {
+            "time": 2400,
+            "append": true,
+            "values": [
+                "dirt",
+                "stone",
+                "netherrack",
+                "end_stone"
+            ]
+        }
+    ]
+}

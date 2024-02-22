@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "killed_dragon": {
+            "trigger": "player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "ender_dragon"
+                }
+            }
+        }
+    },
+
+    "rewards": {
+        "function": "vc:player/killed_dragon"
+    }
+}
