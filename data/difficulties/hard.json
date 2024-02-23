@@ -2,7 +2,7 @@
     "name": "§cHard",
 
     "interval": 5,
-    "max_blocks": 1280,
+    "max_blocks": 512,
 
     "blocks": [
         {
@@ -445,7 +445,6 @@
                 "iron_ore",
                 "iron_trapdoor",
                 "jack_o_lantern",
-                "jigsaw",
                 "jukebox",
                 "jungle_button",
                 "jungle_door",
