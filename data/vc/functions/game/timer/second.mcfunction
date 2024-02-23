@@ -15,4 +15,4 @@ execute if score second vc.system >= next_blocks vc.system run function vc:game/
 execute if score second vc.system >= block.next vc.system run function vc:game/block/next
 
 # 低性能模式
-execute if score mode vc.system matches 1 run function vc:game/perf/mid/tick
+execute if score mode vc.system matches 2 run function vc:game/perf/low/tick
