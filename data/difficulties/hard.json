@@ -2,7 +2,7 @@
     "name": "§cHard",
 
     "interval": 5,
-    "max_blocks": 128,
+    "max_blocks": 1280,
 
     "blocks": [
         {
