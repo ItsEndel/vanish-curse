@@ -13,4 +13,4 @@ data remove storage vc:data blocks.loop[0]
 
 ## 判断是否循环
 scoreboard players remove step vc.system 1
-execute if score step vc.system matches 1.. if data storage vc:data blocks.loop[0] run function vc:game/perf/low/clear_loop
+execute if score step vc.system matches 1.. if data storage vc:data blocks.loop[0] run function vc:game/perf/mid/clear_loop
